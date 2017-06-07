@@ -1,0 +1,17 @@
+{
+  "name": "modeanalytics-salesforce",
+  "version": "1.0.0",
+  "description": "Integrate ModeAnalytics and Sales Force",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js test",
+    "start": "node server.js"
+  },
+  "author": "Amy Beall (http://amybeall.com/)",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "http": "0.0.0",
+    "request": "^2.81.0"
+  }
+}
